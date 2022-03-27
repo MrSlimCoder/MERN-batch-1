@@ -1,0 +1,23 @@
+EXAMPLE (Watch This Video): https://www.youtube.com/watch?v=szu0xPTtWBA&list=PLf-kTzgXA1gwxnMbFrPIXQhU1aaezzQfG&index=2
+CODE (E-Commerce): https://github.com/devcreatives/E-Commerce
+Final Project - E Commerce Website (MERN Stack + Material UI Library) - Deadline (1 Month):
+Login/Signup (Authentication) - JWT, Facebook, Google (optional)
+Roles (User/Admin)
+Product (CRUD):
+User Side
+User can add own product
+User can delete own product
+User can update own product
+User can see own product
+Admin Side
+For admin you have to add them manually within database
+Admin can delete any product
+Admin can update details of any product
+  4. User (Profile)
+  5. Dashboard (User/Admin)
+Show all products 
+Add to cart (Stocks available otherwise error "Stocks not available")
+Overall price (total amount)
+  6. Checkout (If product is not out of stock)
+  7. Payment Gateway - Stripe (Development) - https://www.npmjs.com/package/stripe
+  8. Deploy - Heroku + PM2 (edited) 
